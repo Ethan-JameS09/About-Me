@@ -37,3 +37,7 @@ Study Tools:
 - **CloudLabs**: Utilized for 3 months (Labs, Practice Test)
 - **Microsoft Learn**: Utilized for 4 months (Labs, Practice Test, Videos)
 -  **Application of AI Class** Participated for 8 months (Presentaions, Research Papers, Hands-On experience)
+
+---
+Passed?: ✔️
+Time: April 22nd, 2025
